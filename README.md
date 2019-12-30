@@ -15,5 +15,8 @@ The weights are translated by translateWeights2ESP_lib.py. This goes from Caffe'
 # In Development
 The current state of the model works and provides output, but cannot save the jpeg image to an SD Card.
 More details on this issue can be found here: <a href="https://github.com/espressif/esp-idf/issues/4495"> Issue 4495</a>
+
+O-Net will be implemented in the near future.
+
 # Documentation
 A full explanation can be read in my thesis, please email me if you are interested in seeing it. As there were many steps involved I would be happy to help on any developments in the future, Please file an issue or send me an email.
