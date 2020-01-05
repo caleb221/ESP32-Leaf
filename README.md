@@ -12,6 +12,25 @@ The weights are translated by translateWeights2ESP_lib.py. This goes from Caffe'
 
 --> ESP-FACE
 
+# Images
+
+
+ESP32-Cam by AI-Thinker
+
+
+<img src="https://github.com/caleb221/ESP32-Leaf/blob/master/img/esp32NoCam.png" width ="150" height ="120">
+
+
+FTDI Programming:
+
+
+<img src="https://github.com/caleb221/ESP32-Leaf/blob/master/img/ESP32-CAM-wiring-FTDI1.png" width ="250" height ="170">
+
+Current Output:
+
+<img src="https://github.com/caleb221/ESP32-Leaf/blob/master/img/rnetFound1.png" width ="250" height ="170">
+
+
 # In Development
 The current state of the model works and provides output, but cannot save the jpeg image to an SD Card.
 More details on this issue can be found here: <a href="https://github.com/espressif/esp-idf/issues/4495"> Issue 4495</a>
