@@ -28,7 +28,7 @@ FTDI Programming:
 
 Current Output:
 
-<img src="https://github.com/caleb221/ESP32-Leaf/blob/master/img/rnetFound1.png" width ="250" height ="170">
+<img src="https://github.com/caleb221/ESP32-Leaf/blob/master/img/rnetFound1.png" width ="500" height ="250">
 
 
 # In Development
